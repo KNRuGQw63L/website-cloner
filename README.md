@@ -18,5 +18,5 @@ Requirements:
     BeautifulSoup4
     Requests 
  
-Licensed under *Mozilla Public License, version 2.0*   
+Licensed under *Mozilla Public License, version 2.0*    
 Created for some personal usage.  
