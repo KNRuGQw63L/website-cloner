@@ -1,4 +1,4 @@
-# Easy website cloaner!  
+# Easy website cloaner!   
    
 ## Easily clone any website you want in its entirety! Easy to use & very efficent!   
   
