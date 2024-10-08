@@ -1,7 +1,7 @@
 # Easy website cloaner!  
    
 ## Easily clone any website you want in its entirety! Easy to use & very efficent! 
- 
+  
 # Guide on how to use these tool  
    
 1. Install Python 
