@@ -13,7 +13,7 @@
 4. Go in the extracted folder and open the start.bat file   
  
 5. Enjoy! 
-Requirements: 
+Requirements:  
     Python 3
     BeautifulSoup4
     Requests 
