@@ -4,7 +4,7 @@
  
 # Guide on how to use these tool  
    
-1. Install Python
+1. Install Python 
   
 2. Download the repo as a ZIP   
  
