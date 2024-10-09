@@ -14,7 +14,7 @@
   
 5. Enjoy!   
 Requirements:   
-    Python 3 
+    Python 3  
     BeautifulSoup4
     Requests  
   
